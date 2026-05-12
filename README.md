@@ -25,7 +25,7 @@ Instead of writing prompts manually:
 ### Step 1: Copy Meta Prompt
 Click below:
 
-👉 **[Meta Prompt Repository](https://github.com/TechArcanist/Meta-Prompt-to-Generate-Prompt/blob/main/prompt.md)**
+👉 **[Meta Prompt Repository](https://github.com/TechArcanist/Prompt-Generator/blob/main/prompt.md)**
 
 Copy the prompt from `prompt.md`
 
